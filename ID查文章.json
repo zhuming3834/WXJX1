@@ -1,0 +1,20 @@
+{
+  "showapi_res_body" : {
+    "item" : {
+      "contentImg" : "http://app1.showapi.com/weixin_info/article/694686f1-262f-4732-955d-aba12ed98fb7.jpg",
+      "ct" : "2015-09-24 17:10:11.005",
+      "date" : "2015-09-24 14:56",
+      "id" : "5603bdf36e36eb7098f0a934",
+      "title" : "拿我哄你女票开心，爱你所以我认喽!",
+      "typeId" : "0",
+      "typeName" : "热点",
+      "url" : "http://mp.weixin.qq.com/s?__biz=MjM5NzIyODk4MA==&mid=216596647&idx=1&sn=e0c25b4bbbb923cbb0b5cd285e37ad3e&3rd=MzA3MDU4NTYzMw==&scene=6#rd",
+      "userLogo" : "http://app1.showapi.com/weixin_info/article/3e68be88-14d0-4fa6-8082-bd44a53934de.jpg",
+      "userLogo_code" : "http://app1.showapi.com/weixin_info/article/a48e3a08-6a06-4a20-8031-65f9d8b860d7.jpg",
+      "userName" : "冷丫"
+    },
+    "ret_code" : 0
+  },
+  "showapi_res_code" : 0,
+  "showapi_res_error" : ""
+}
